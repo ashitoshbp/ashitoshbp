@@ -4,16 +4,11 @@
 🏫 National Institute of Technology Karnataka, Surathkal ('25)  
 📍 Pune, Maharashtra, India  
 
-🔭 I’m currently working on:
-- 📈 Stock market prediction using Graph Neural Networks (HATS, GAT, etc.)
-- ⚖️ Legal AI: Fact-based case retrieval and argument mining using LLMs
-- 🧬 AI in Healthcare: Gestalt-based rare disease classification using diffusion models
-
 💼 Previously:
 - 💻 Software Engineering Intern @ Goldman Sachs  
 - 🔬 Summer Research Intern @ HALE Lab, NITK
 
-📫 Reach me at: [ashitoshphadatare.21.ai@nitk.edu.in](mailto:ashitoshphadatare.21.ai@nitk.edu.in)
+📫 Reach me at: [mailto:ashitoshbp2002@gmail.com](mailto:mailto:ashitoshbp2002@gmail.com)
 
 ---
 
@@ -38,13 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Ashitosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashitoshphadatare&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashitoshphadatare&layout=compact&theme=tokyonight)
 
 ---
 
